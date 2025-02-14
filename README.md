@@ -1,4 +1,14 @@
-# HTTP5122-Front-End
-🏷️ Course Name: Front-End Web Development
+# Front-End Web Development
 
-🏷️ Course Description: This course covers the essentials of client-side web development. Students will learn to create interactive and responsive user interfaces using HTML, CSS, and JavaScript. Emphasis is placed on user-centered design, accessibility, and best practices in front-end development.
+This repository contains coursework, projects, and assignments for the **Front-End Development** course at Humber College. The course focuses on creating interactive and user-friendly websites using HTML, CSS, and JavaScript.
+
+## 📌 Course Topics
+- HTML & CSS Fundamentals
+- JavaScript Basics & DOM Manipulation
+- Responsive Design & Flexbox/Grid
+- Front-end Frameworks (React, Vue)
+
+🔗 **Course Link**: [Humber Web Development](https://humber.ca)
+
+## 🖼️ Screenshot
+![Front-End Development](https://via.placeholder.com/800x400?text=Front-End+Development+Project)

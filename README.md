@@ -11,4 +11,6 @@ This repository contains coursework, projects, and assignments for the **Front-E
 🔗 **Course Link**: [Humber Web Development](https://humber.ca)
 
 ## 🖼️ logo
-![Front-End Development]![Front-End Development](https://github.com/Elliedd-26/HTTP5122-Front-End/blob/main/javascript-logo.png)
+<img src="https://github.com/Elliedd-26/HTTP5122-Front-End/blob/main/javascript-logo.png" alt="Front-End Development" width="100" height="100">
+
+
